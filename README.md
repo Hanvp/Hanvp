@@ -9,8 +9,8 @@ __☕Team '집다방' developing..__
 __📚Portfolio__
 <br><br>
 
-## 📌Tech Stack
-
+### 📌Tech Stack
+***
 
 <h3 align="center">🚀Platforms & Languages</h3>
 <div align="center">
@@ -39,7 +39,8 @@ __📚Portfolio__
 </div>
 <br><br>
 
-## 📌Stats
+### 📌Stats
+---
 <br>
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hanvp&layout=compact)](https://github.com/Hanvp/github-readme-stats)
