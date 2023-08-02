@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=1E90FF&height=400&section=header&text=Hanvp's%20Github&fontSize=300" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=1E90FF&height=400&section=header&text=Hanvp's%20Github&fontColor=1E90FF&fontSize=50" />
 
 <!--
 **Hanvp/Hanvp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
