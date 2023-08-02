@@ -24,7 +24,6 @@ __📚Portfolio__
 <br>
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
-<br>
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
 <br>
@@ -38,8 +37,20 @@ __📚Portfolio__
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-232F3E?style=for-the-badge&logo=github&logoColor=white">
 </div>
+<br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=1E90FF&height=150&section=footer" />
+## 📌Stats
+<br>
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hanvp&layout=compact)](https://github.com/Hanvp/github-readme-stats)
+-->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hanvp&show_icons=true&theme=transparent)
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=nwactris)](https://solved.ac/nwactris)
+
+<br><br>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=87CEFA&height=130&section=footer" />
 
 
 
