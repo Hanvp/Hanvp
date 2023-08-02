@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=1E90FF&height=90&section=header&text=Hanvp's%20Github&fontColor=0000CD&fontSize=45&fontAlignY=30&desc=김예지%20Kim%20Yeji&descSize=20&descAlignY=75" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=1E90FF&height=90&section=header&text=Hanvp's%20Github&fontColor=0000CD&fontSize=35&fontAlignY=30&desc=김예지%20Kim%20Yeji&descSize=17&descAlignY=75" />
 
 __✨Server Developer__
 <br>
