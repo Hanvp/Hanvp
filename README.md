@@ -7,6 +7,8 @@ __☕Team '집다방' developing..__
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/zipdabang
 <br>
 __📚Portfolio__
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://hanvp.notion.site/838545d7199b4289aa680230740ef0ef?pvs=4
 <br><br>
 
 ### 📌Tech Stack
