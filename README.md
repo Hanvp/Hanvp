@@ -6,9 +6,9 @@ __☕Team '집다방' developing..__
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/zipdabang
 <br>
-__📚Portfolio__
+__📚Blog__
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://hanvp.notion.site/838545d7199b4289aa680230740ef0ef?pvs=4
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://velog.io/@nwactris/series
 <br><br>
 
 ### 📌Tech Stack
@@ -20,14 +20,15 @@ __📚Portfolio__
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/spring boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 <img src="https://img.shields.io/badge/spring data jpa-6DB33F?style=for-the-badge">
-<br>
+<!--
+  <br>
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
 <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
 <br>
+-->
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
 <br>
 
 </div>
